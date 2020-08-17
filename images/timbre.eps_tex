@@ -1,0 +1,74 @@
+%% Creator: Inkscape inkscape 0.92.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'timbre.eps' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{276.24975586bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.97918727)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength]{images/timbre.eps}}%
+    \put(0.13980718,0.7348342){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.18783139,0.56662175){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.89326124,0.56662175){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
+    \put(0.10638145,0.85960798){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}100\end{tabular}}}}%
+    \put(0.09637963,0.61006016){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-100\end{tabular}}}}%
+    \put(0.79484188,0.91017336){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}piáno - C\end{tabular}}}}%
+    \put(0.5090695,0.54430987){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}čas (ms)\end{tabular}}}}%
+    \put(0.05353091,0.68302049){\rotatebox{89.99828118}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}zvuk (tlak)\end{tabular}}}}}%
+    \put(0.13980718,0.264648){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.18783139,0.09643554){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.89326124,0.09643554){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
+    \put(0.10638145,0.38942177){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}100\end{tabular}}}}%
+    \put(0.09637963,0.13987395){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-100\end{tabular}}}}%
+    \put(0.74476817,0.43998715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}trumpeta - C\end{tabular}}}}%
+    \put(0.5090695,0.07412366){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}čas (ms)\end{tabular}}}}%
+    \put(0.05353091,0.21283428){\rotatebox{89.99828118}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}zvuk (tlak)\end{tabular}}}}}%
+  \end{picture}%
+\endgroup%
